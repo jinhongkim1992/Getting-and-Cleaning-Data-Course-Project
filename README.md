@@ -1,5 +1,6 @@
 # Getting-and-Cleaning-Data-Course-Project
 
+
 [The Purpose of the Work]
 The purpose of this project is to demonstrate your ability to collect, work with, and clean a data set. The goal is to prepare tidy data that can be used for later analysis
 
@@ -13,4 +14,4 @@ The purpose of this project is to demonstrate your ability to collect, work with
 [Outcomes]
 
 1. outcome.txt : the tidy data set, which inlcudes the mean and std measures of each activities.
-2. analysis.r : R script to cover this work
+2. run_analysis.r : R script to cover this work
