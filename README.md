@@ -15,4 +15,5 @@ The purpose of this project is to demonstrate your ability to collect, work with
 [Outcomes]
 
 1. outcome.txt : the tidy data set, which inlcudes the mean and std measures of each activities.
-2. run_analysis.r : R script to cover this work
+2. run_analysis.r : R script to cover this work.
+3. codebook : the summary of variables.
